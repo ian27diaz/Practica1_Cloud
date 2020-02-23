@@ -1,0 +1,10 @@
+#Files
+images.ttl
+labels_en.ttl
+#Enviroment for python
+/env
+#Databases
+sqlite_labels.db
+sqlite_images.db
+#Visual studio
+.vscode
